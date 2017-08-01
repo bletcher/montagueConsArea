@@ -1,0 +1,23 @@
+{
+  "name": "habitatPicViewer",
+  "homepage": "https://github.com/bletcher/habitatPicViewer",
+  "authors": [
+    "Jeff Walker <walker.jeff.d@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "intro.js": "^2.5.0",
+    "landing-page": "https://github.com/BlackrockDigital/startbootstrap-landing-page/archive/v3.3.7.zip",
+    "bootstrap": "^3.3.7"
+  }
+}
